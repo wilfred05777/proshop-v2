@@ -2,6 +2,14 @@
 
 <hr>
 
+Implement React Router
+
+- cd /frontend
+- npm i react-router-bootstrap
+- npm i react-router-dom
+
+<hr>
+
 - cd frontend
 - npm install react-bootstrap bootstrap react-icons
 
